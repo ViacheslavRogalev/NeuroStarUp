@@ -1,5 +1,5 @@
 # NeuroStarUp
-![](https:netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 *NeuroStarUp* - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интелекта.
 Наши преимущества:
 1. Высокая точность поиска
